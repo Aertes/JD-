@@ -19,13 +19,13 @@
   padding-left: 12px;
   font-size: 14px;
   position: relative;
+  cursor: pointer;
 }
 .wrap ul li .active {
   background: #999359;
 }
 .wrap ul li span:hover {
   color: #c81623;
-  cursor: pointer;
 }
 .wrap .none {
   display: none;
